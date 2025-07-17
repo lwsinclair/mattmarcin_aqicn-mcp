@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-mattmarcin-aqicn-mcp-badge.png)](https://mseep.ai/app/mcp-mirror-mattmarcin-aqicn-mcp)
+
 # AQICN MCP Server
 [![smithery badge](https://smithery.ai/badge/@mattmarcin/aqicn-mcp)](https://smithery.ai/server/@mattmarcin/aqicn-mcp)
 
